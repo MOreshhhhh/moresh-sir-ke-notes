@@ -1,0 +1,20 @@
+{
+  "name": "Moresh Sir ke Notes",
+  "short_name": "Moresh Notes",
+  "description": "Information Technology notes for Class XI and XII students by Professor Moresh Sir.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F7F3",
+  "theme_color": "#315F63",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

@@ -1,0 +1,6 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-USERNAME.github.io/moresh-sir-ke-notes/sitemap.xml
+
